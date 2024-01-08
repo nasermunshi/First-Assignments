@@ -75,6 +75,48 @@ font-weight: 700;
     background: rgba(255, 0, 0, 0.05);
 }
 
+.social-links{
+    margin-top: 100px;
+    text-align: center;
+    background-size: contain;
+    padding-top: 100px;
+    height: 400px; 
+    width: 100%;
+    border-radius: 16px;
+    background: #070211;
+}
+.Beach{
+  color: #fff; 
+  text-align: left;
+  margin-left: 50px;
+}
+.com{
+    color: #fff; 
+    text-align: right; 
+    margin-right: 60px;
+}
+.all{
+ color: #fff;
+ text-align: left;
+ margin-left: 50px;
+}
+.al{
+color: #fff;
+text-align: right;
+margin-right: 60px;
+}
+.Park {
+    margin-top: 100px;
+    text-align: center;
+    background-size: contain;
+    padding-top: 100px;
+    height: 300px; 
+    width: 100%;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-bottom: 100px;
+
+}
 
 
   
