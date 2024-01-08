@@ -1,4 +1,38 @@
-div {
- text-align: center;
-}                  
+.newyear{
+    color: #fff;                
+    text-align: center;
+    background-image: url('../resources/Banner\ Image.png'); 
+ background-repeat: no-repeat; 
+ height: 400px; 
+ width: 100%;
+background-size: contain;
+padding-top: 100px;
+
+}
+body{
+margin: 120px;
+}
+.header{
+    font-size: 72px; 
+}
+.fontStyle{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+
+}
+.font {
+text-align: center;
+}
+.secountfont{
+    text-align: center;
+}
+ba
+
+  
+
+
+
                               
