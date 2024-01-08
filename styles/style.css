@@ -32,18 +32,34 @@ padding-top: 100px;
 color: #fff; 
 background-repeat: no-repeat;
 padding-left: 100px;
+
 }
 
 .font {
 text-align: center;
+color: #F00;
+font-size: 24px;
+font-weight: 500;
 }
+
 .secountfont{
     text-align: center;
+    color: #070211;
+font-size: 48px;
+font-weight: 700;
+
 }
 
 .newyearimage{
   margin-left: 150px;
 }
+.gift{
+    color: #F00;
+    font-size: 24px;
+    margin-left: 150px;
+}
+
+
 
 
 
