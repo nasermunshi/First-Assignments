@@ -23,13 +23,29 @@ margin: 120px;
     font-style: normal;
 
 }
+.perty{
+  background-image: url('../resources/Vectorrr.png'); 
+  height: 400px; 
+ width: 100%;
+background-size: contain;
+padding-top: 100px;
+color: #fff; 
+background-repeat: no-repeat;
+padding-left: 100px;
+}
+
 .font {
 text-align: center;
 }
 .secountfont{
     text-align: center;
 }
-ba
+
+.newyearimage{
+  margin-left: 150px;
+}
+
+
 
   
 
