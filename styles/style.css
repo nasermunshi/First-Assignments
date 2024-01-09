@@ -73,6 +73,7 @@ font-weight: 700;
     width: 100%;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
+    background-color: antiquewhite;
 }
 
 .social-links{
@@ -115,6 +116,7 @@ margin-right: 60px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
     margin-bottom: 100px;
+    background-color: antiquewhite;
 
 }
 
